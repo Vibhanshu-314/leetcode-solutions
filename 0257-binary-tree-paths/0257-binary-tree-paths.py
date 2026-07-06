@@ -12,18 +12,17 @@ class Solution(object):
         """
         result=[]
         def dfs(node,path):
-            if not node:
-                return 
+            if node is None:
+                return  
+            path.append(str(node.val))
+            
+            if not node.left and not node.right:
+                result.append("->".join(path))
+            else:
 
-            path+=str(node.val)
-
-            if not node.left and not node.right: 
-                result.append(path)
-                return 
-
-            path+="->"
-            dfs(node.left,path)
-            dfs(node.right,path)
-
-        dfs(root,"")
-        return result        
+                dfs(node.left,path)
+                dfs(node.right,path)
+                
+            path.pop()
+        dfs(root,[])
+        return result    
