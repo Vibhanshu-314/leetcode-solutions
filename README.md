@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## String
 |  |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0349-intersection-of-two-arrays](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0450-delete-node-in-a-bst](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0538-convert-bst-to-greater-tree) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
@@ -178,11 +181,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
