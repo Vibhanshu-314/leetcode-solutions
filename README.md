@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [1331-rank-transform-of-an-array](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## String
 |  |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1331-rank-transform-of-an-array](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
@@ -190,4 +192,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1331-rank-transform-of-an-array](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 <!---LeetCode Topics End-->
