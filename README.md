@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0143-reorder-list](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0143-reorder-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 ## String Matching
 |  |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0143-reorder-list) |
 | [0283-move-zeroes](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -257,11 +259,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0050-powx-n) |
+| [0143-reorder-list](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
