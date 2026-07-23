@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0326-power-of-three) |
 | [3516-find-closest-person](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/3516-find-closest-person) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0027-remove-element) |
 | [0041-first-missing-positive](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0066-plus-one](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0136-single-number) |
 | [0219-contains-duplicate-ii](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
