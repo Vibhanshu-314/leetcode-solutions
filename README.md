@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0066-plus-one) |
+| [0231-power-of-two](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0326-power-of-three) |
 | [3516-find-closest-person](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/3516-find-closest-person) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0268-missing-number) |
 ## Greedy
 |  |
@@ -271,5 +273,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
