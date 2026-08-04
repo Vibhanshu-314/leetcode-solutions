@@ -13,7 +13,8 @@ class Solution(object):
             elif nums[i]<min:
                 min=nums[i]
         result=[]
+        s=set(nums)
         for num in range(min,max+1):
-            if num not in nums:
+            if num not in s:
                 result.append(num)
         return result       
