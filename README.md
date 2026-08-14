@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0342-power-of-four) |
+| [0509-fibonacci-number](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0877-stone-game) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0509-fibonacci-number](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0877-stone-game) |
 ## Monotonic Stack
 |  |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0342-power-of-four) |
+| [0509-fibonacci-number](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -403,4 +406,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
