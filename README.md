@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1331-rank-transform-of-an-array](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3731-find-missing-elements](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## String
 |  |
@@ -31,11 +32,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sliding Window
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Tree
 |  |
 | ------- |
