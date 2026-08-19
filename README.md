@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## String
 |  |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [1920-build-array-from-permutation](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Simulation
 |  |
