@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1768-merge-strings-alternately](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0143-reorder-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## String Matching
 |  |
 | ------- |
