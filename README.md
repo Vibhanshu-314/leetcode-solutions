@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0888-fair-candy-swap](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0888-fair-candy-swap) |
 | [1207-unique-number-of-occurrences](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0143-reorder-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0496-next-greater-element-i](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0844-backspace-string-compare](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## String Matching
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -369,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 ## Linked List
 |  |
 | ------- |
