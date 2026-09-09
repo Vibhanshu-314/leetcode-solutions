@@ -12,8 +12,15 @@ class Solution(object):
         #     xor_all^=num
  #
         # return xor_all
-        n=len(nums)       
-        nums_sum=sum(nums)
-        original_sum=n*(n+1)//2
+        # n=len(nums)       
+        # nums_sum=sum(nums)
+        # original_sum=n*(n+1)//2
        
-        return original_sum-nums_sum  
+        # return original_sum-nums_sum  
+
+        for i,num in enumerate(sorted(nums)):
+            if i!=num:
+                return i
+                break
+        else:
+             return len(nums)    
