@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0771-jewels-and-stones](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [0888-fair-candy-swap](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0888-fair-candy-swap) |
+| [0890-find-and-replace-pattern](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0890-find-and-replace-pattern) |
 | [1207-unique-number-of-occurrences](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0771-jewels-and-stones](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [0844-backspace-string-compare](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0844-backspace-string-compare) |
+| [0890-find-and-replace-pattern](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0890-find-and-replace-pattern) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1768-merge-strings-alternately](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0877-stone-game) |
 | [0888-fair-candy-swap](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0888-fair-candy-swap) |
+| [0890-find-and-replace-pattern](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0890-find-and-replace-pattern) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1207-unique-number-of-occurrences](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
