@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0342-power-of-four) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0258-add-digits) |
 | [0844-backspace-string-compare](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [1920-build-array-from-permutation](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -504,4 +506,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0836-rectangle-overlap) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
