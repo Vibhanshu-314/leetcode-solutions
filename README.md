@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3870-count-commas-in-range](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
+| [3959-check-good-integer](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/3959-check-good-integer) |
 ## Stack
 |  |
 | ------- |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
+| [3959-check-good-integer](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/3959-check-good-integer) |
 ## Prefix Sum
 |  |
 | ------- |
