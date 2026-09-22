@@ -300,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3875-construct-uniform-parity-array-i](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/3904-smallest-stable-index-ii) |
+| [3978-unique-middle-element](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/3978-unique-middle-element) |
 ## Simulation
 |  |
 | ------- |
@@ -503,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0169-majority-element) |
+| [3978-unique-middle-element](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/3978-unique-middle-element) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
