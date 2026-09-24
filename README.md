@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1399-count-largest-group](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/1399-count-largest-group) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0877-stone-game) |
+| [1399-count-largest-group](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/1399-count-largest-group) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3516-find-closest-person](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/3516-find-closest-person) |
 | [3536-maximum-product-of-two-digits](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
@@ -512,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0169-majority-element) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1399-count-largest-group](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/1399-count-largest-group) |
 | [3978-unique-middle-element](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/3978-unique-middle-element) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
