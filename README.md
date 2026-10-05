@@ -301,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0877-stone-game) |
 | [0888-fair-candy-swap](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0888-fair-candy-swap) |
 | [0890-find-and-replace-pattern](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0890-find-and-replace-pattern) |
+| [0896-monotonic-array](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0896-monotonic-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1002-find-common-characters](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/1002-find-common-characters) |
 | [1207-unique-number-of-occurrences](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
