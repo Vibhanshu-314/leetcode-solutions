@@ -313,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-monotonic-array](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0896-monotonic-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1002-find-common-characters](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/1002-find-common-characters) |
+| [1046-last-stone-weight](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/1051-height-checker) |
 | [1207-unique-number-of-occurrences](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -473,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1046-last-stone-weight](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Divide and Conquer
 |  |
