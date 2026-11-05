@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0888-fair-candy-swap](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0888-fair-candy-swap) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Backtracking
 |  |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -405,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1768-merge-strings-alternately](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 ## Sorting
 |  |
@@ -426,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/1051-height-checker) |
 | [1331-rank-transform-of-an-array](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
