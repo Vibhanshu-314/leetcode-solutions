@@ -599,5 +599,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bubble Sort
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0075-sort-colors) |
 | [1051-height-checker](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/1051-height-checker) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Vibhanshu-314/leetcode-solutions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
